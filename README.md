@@ -19,10 +19,6 @@ Welcome to my portfolio website! I am Divyarth Singh, a dedicated Front End Web 
 ## Demo
 Check out the live demo of my portfolio website [here](https://div8791.github.io/Portfolio/).
 
-## Features
-- Feature 1: Describe feature 1 briefly
-- Feature 2: Describe feature 2 briefly
-- Feature 3: Describe feature 3 briefly
 
 ## Installation
 To run this project locally, follow these steps:
@@ -60,6 +56,4 @@ If you have any questions or suggestions, feel free to reach out to me:
 - Phone: +91 7060671526
 
 ---
-
-By following this template and customizing it with your specific project details, you can create a comprehensive and engaging GitHub readme for your portfolio website that will help others understand, use, and contribute to your project effectively.
 
